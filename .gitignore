@@ -1,0 +1,33 @@
+# vivado generated output
+/Cpu 5stager.cache/
+/Cpu 5stager.hw/
+/Cpu 5stager.ip_user_files/
+/Cpu 5stager.runs/
+/Cpu 5stager.sim/
+/xsim.dir/
+/.Xil/
+
+# logs and temporary simulator files
+*.jou
+*.log
+*.pb
+*.wcfg
+*.wdb
+*.backup.jou
+*.backup.log
+*.str
+dfx_runtime.txt
+
+# generated checkpoints and local archives
+*.dcp
+*.rpt
+*.rpx
+*.vdi
+*.vds
+*.wdf
+*.zip
+
+# generated bitstream/debug products
+*.bit
+*.ltx
+*.mmi
