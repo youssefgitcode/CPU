@@ -32,6 +32,10 @@ Verilog implementation of a simple 5-stage pipelined RISC-V CPU built in Vivado.
 - `tb_full_program.v`
 - `tb_riscv_core.v` legacy smoke test
 
+## Architecture Notes
+
+- [Fetch stage](docs/architecture/01_fetch_stage.pdf)
+
 ## Notes
 
 The committed repo should keep source, constraints, memory initialization, and the Vivado project file. Generated Vivado folders such as `.runs`, `.sim`, `.cache`, and `xsim.dir` are ignored.
