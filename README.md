@@ -38,6 +38,7 @@ Verilog implementation of a simple 5-stage pipelined RISC-V CPU built in Vivado.
 - [Decode stage](docs/architecture/02_decode_stage.pdf)
 - [Execute stage](docs/architecture/03_execute_stage.pdf)
 - [Memory stage](docs/architecture/04_memory_stage.pdf)
+- [Writeback stage](docs/architecture/05_writeback_stage.pdf)
 
 ## Notes
 
